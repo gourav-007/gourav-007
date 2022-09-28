@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gourav Jain</h1>
-<h3 align="center">A passionate SDET from India</h3>
+<h3 align="center">A passionate QA/SDET/LEARNER from India</h3>
 
 
 - 🌱 I’m currently learning **Devops**
