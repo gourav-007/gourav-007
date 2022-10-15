@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Gourav Jain</h1>
 <h3 align="center">A passionate <strong>QA</strong>/<strong>SDET</strong>/<strong>LEARNER</strong> from India</h3>
-
+<img align="right" alt="Coding" width="400" src="https://www.nizek.com/wp-content/uploads/2018/10/Testing.svg">
 
 - 🌱 I’m currently learning **Devops**
 
