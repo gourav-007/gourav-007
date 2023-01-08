@@ -19,3 +19,7 @@
 ![](https://github-readme-stats.vercel.app/api?username=gourav-007&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=gourav-007&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=gourav-007&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+<h3 align="left">  WorkFlow Status :</h3>
+
+[![Java CI with Maven](https://github.com/gourav-007/rest-in-piece/actions/workflows/maven.yml/badge.svg?branch=main)](https://github.com/gourav-007/rest-in-piece/actions/workflows/maven.yml)
