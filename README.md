@@ -22,4 +22,4 @@
 
 <h3 align="left">  WorkFlow Status :</h3>
 
-[![Java CI with Maven](https://github.com/gourav-007/rest-in-piece/actions/workflows/maven.yml/badge.svg?branch=main)](https://github.com/gourav-007/rest-in-piece/actions/workflows/maven.yml)
+[![rest-in-piece](https://github.com/gourav-007/rest-in-piece/actions/workflows/maven.yml/badge.svg?branch=main)](https://github.com/gourav-007/rest-in-piece/actions/workflows/maven.yml)
